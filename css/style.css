@@ -16,10 +16,10 @@ p,h1,h2 {
 text-align:center;
 }
 
-#card {
-	border: gray;
-	size: 2px;
+.panel-body{
+	padding: 40px;
 }
+
 /*
 * boxes/ body
  */

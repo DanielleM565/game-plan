@@ -9,15 +9,30 @@
  */
 
 img.center-block {
-max-height: 375px !important;
+max-height: 400px !important;
+	padding: 5rem;
 }
 
 p,h1,h2 {
-text-align:center;
+text-align: center;
+
+}
+
+p{
+	font-size: 17px;
+}
+
+h2 {
+	font-weight: bold;
 }
 
 .panel-body{
 	padding: 40px;
+}
+
+.row{
+	margin-right: -15px;
+	margin-left: -15px;
 }
 
 /*

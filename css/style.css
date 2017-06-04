@@ -8,10 +8,18 @@
 * header
  */
 
-img [alt="Game Plan Logo"]{
-max-height: 40rem;
+img.center-block {
+max-height: 375px !important;
 }
 
+p,h1,h2 {
+text-align:center;
+}
+
+#card {
+	border: gray;
+	size: 2px;
+}
 /*
 * boxes/ body
  */
